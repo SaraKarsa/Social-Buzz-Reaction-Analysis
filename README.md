@@ -29,9 +29,14 @@ I am the data analyst assigned to carry out analysis on the clients sample data 
 - Prepare data visualizations on Tableau and carry out storytelling with data.
 - Prepare a presentation to the client using Microsoft PowerPoints and sharing insights gotten from the data.
 
+## Dashboard
+
+<img width="1396" alt="Screenshot 2023-07-24 at 8 57 14 PM" src="https://github.com/SaraKarsa/Social-Buzz-Reaction-Analysis/assets/132733506/dc36791b-d1b2-40aa-8501-ad4e4626afd4">
+
+
 **🌟 Insights from the Dashboard:**
 
 - There are a total of 16 distinct content categories and 4 content types.
 - Animals and Science are two of the most popular content categories, this shows that people enjoy "real-life" and "factual" content the most.
-- January month has the highest number of posts with a total number of 1949 posts, while February month has the lowest number of posts of 1750.
+- May month has the highest number of posts with a total number of 86293 posts, while February month has the lowest number of posts of 75509.
 - Food is a common theme with the top 5 categories with “Healthy Eating” ranking as one of the highest. This may give an indication to the audience within your user base. You could use this insight to create a - campaign and work with healthy eating brands to boost user engagement.
