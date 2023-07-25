@@ -38,6 +38,8 @@ https://public.tableau.com/views/Socialbuzzreviews/Dashboard1?:language=en-US&:d
 <img width="1396" alt="Screenshot 2023-07-24 at 8 57 14 PM" src="https://github.com/SaraKarsa/Social-Buzz-Reaction-Analysis/assets/132733506/dc36791b-d1b2-40aa-8501-ad4e4626afd4">
 
 
+
+
 **🌟 Insights from the Dashboard:**
 
 - There are a total of 16 distinct content categories and 4 content types.
