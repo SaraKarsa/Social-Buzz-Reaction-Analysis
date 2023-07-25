@@ -31,6 +31,10 @@ I am the data analyst assigned to carry out analysis on the clients sample data 
 
 ## Dashboard
 
+## Interactive Dashboard Link:
+
+https://public.tableau.com/views/Socialbuzzreviews/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 <img width="1396" alt="Screenshot 2023-07-24 at 8 57 14 PM" src="https://github.com/SaraKarsa/Social-Buzz-Reaction-Analysis/assets/132733506/dc36791b-d1b2-40aa-8501-ad4e4626afd4">
 
 
