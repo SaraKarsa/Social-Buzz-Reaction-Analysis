@@ -2,7 +2,7 @@
 
 Hello all, recently I participated in the open-access Accenture Data Analytics Virtual Experience Program with Forage. Where I worked as a data analyst to help an organization named “Social Buzz” to analyze their data and help them understand how they can leverage their massive amount of data.
 
-## Linkedin link
+**Linkedin link:**
 
 www.linkedin.com/in/saranya-data-analyst
 
